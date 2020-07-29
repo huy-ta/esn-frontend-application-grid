@@ -13,7 +13,9 @@
   "files": [
     "src/",
     "dist/",
-    "loader/"
+    "loader/",
+    "stencil.config.ts",
+    "tsconfig.json"
   ],
   "scripts": {
     "build": "stencil build --docs",
