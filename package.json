@@ -22,12 +22,10 @@
     "generate": "stencil generate",
     "postinstall": "stencil build"
   },
-  "devDependencies": {
-    "@stencil/core": "1.12.2",
-    "@stencil/sass": "1.3.2"
-  },
   "license": "AGPLv3",
   "dependencies": {
+    "@stencil/core": "1.12.2",
+    "@stencil/sass": "1.3.2",
     "@popperjs/core": "2.4.4"
   }
 }
